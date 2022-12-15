@@ -5,3 +5,5 @@
   # turn of the printer
   # remove sd card
   # turn on the printer, calibrate screen, then everything should work normal
+  # connect to pronterface and perform PID autotune for both extruder and bed (current values are set for my all metal extruder mod)
+  # Calibrate Extruder E steps
