@@ -1,4 +1,4 @@
-# NOTE: Use for your own risk
+# NOTE: Use at your own risk
 ## before you flash the firmware, it is designed to use bl touch to replace z min endstop, so please make sure the BL touch ground and signal pins are connected to zmin endstop slot.
 
 ## NOTE: After flashing firmware if you get "media init failed", do the following:
